@@ -61,7 +61,7 @@ yarn start or npm start
 } 
 ```
 
-**GET: **http://localhost:3333/auth/
+**GET:** http://localhost:3333/auth/
 
 ```json
 "RESPONSE":{
